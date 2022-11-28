@@ -1,13 +1,4 @@
 {
-    "type": "service_account",
-    "project_id": "poultryapp-32149",
-    "private_key_id": "bf1e3b49db7e46dfbcd79dbcccd50c8c8fe8d3b2",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+4DFID91fh4TS\nX2UQcvAZuihdvRGfSPFarQrXvS065pD9OLfpVk2sbM9NeE9O/mrRTfg425xGJgcW\nKfctW0YpJCuQZsDqERhmatQuZGl1Q+HCU5GTRB4Kyen15VJBbOigJBgKoWD1RLn0\nxyJCMRlZFP7g8na4LPD0aqvuoizu0JIaMlpfCaRQmJ4+wRfcnhvBZ4lYVi8osfhN\n6gIveBA0a7w75UpgvYPNZgDQAaoAZs+FA49XYN1LQVcEx9FtCUt16eyGFPea5mQB\n1hD28nmIveXGX2lCMaFjrbndaUqcJw/8IJbjpnnDY34LjarscpthQlmtmVri22lG\nnssS2TOHAgMBAAECggEACgU6ARb4H6o9IlAovZbTHP6lXNpuoOaS6Rg5f/7p73Qo\nO2rtWL4ToNArh90fiL2ZfPhzZgS9bP9VEuhMFiD7C3DfKpsCWKdiGQpVrkPON35D\nTVDWzRzf2OAlvKd3zIB7q+CJNJGpRecAPiXwGfp64q7T/Jot+lg9pA8vjH0OD9Fi\n5AH7byAVkmUrzJ21tM8Truu1XYvahfRUrCAtlM47XHXiloe0qot3w3FS2IzUcsvH\n1wK8law5+3RgHJ4I+je02jqAiFGzt7xNXMQNIIJQIxe4khtwKw3rs4tKoz2C7lIg\ndTmsQXxcONrcqiYaM++DuPoBSdZ6bTdg/Y2Rich/UQKBgQD4aRDYtsgm/s64lxNo\nmysqhU+KVlMWwDe5av4EE1Qts94uM9FQcobd33a+sYgiKRdToXIso+rhMXAxpyhT\nBCJ9886vAsbWznWG8QKIOabWJ0SF64usCQFbc7CsgQWoVsEdcTw8VQ7dEFYnzdyZ\nSO2nWF7atriPKqI5Vh+x3zNV9wKBgQDEtR8EpOf2WGSTj9SAYJrTUq8+8UEI3wUe\nTI4JkeeHE++7drzeC9FbMYcQ3tfOLytGQaafM4feSXxadMpFbor6dJM0E5B/Q5D2\nlSE5TfxiDsfJv/cZfVbotQVVy2T/Z6iiHmVNyMU+7foQVYT+Sja9KN34Vc13n9UE\n3MYmrjtq8QKBgD5JkgjVJDDq+Yi9kQdMyTEbRkuIw8LTpeVfV5xMAHKJRG/PXG/Q\nl9KwgsTkHR97sDavJ8Lbwzx+OgSpRmoygjeU18F4b8VS9ZNFgX4I/rV6GSt/WYFk\nrKtywd0vaOzB/CBW0WTLazOxMfk/HE5vQ/APL5Gl+XckmJLJ7p6aOfQXAoGAKSWu\nCF2qfBh/aXKjw/rxSBU6vVLgBMgKHQ1shMn1gYcFFdS/qz8TmxzgIQJMaD/rsHWZ\nMiIoYLJEhfN6QE3gWoW6KSGSj1yF3V7SpVcP3T80QZqbSMS0Qldjd0/ln5uCZe8v\nx7agtAo5zeLlv/+sNaNv0zu3kDdp6ut3s62sljECgYA3SSMvopWv7bAvmbqYxgDt\n2ZvaHO6hB0sQkMs/7P3YKtcljK5TvG9eYfBaQ1psr2fXSQN9ukkVlJfTCput+FmM\nic/Qmjkvu7edq/YlfSitdda1Z4lfZkpvftqq9bgMVhaFZeK5WEGn+KLsF3LPjMyc\n+i4yZzf9kkhYbLvHn0J8uQ==\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-1gl97@poultryapp-32149.iam.gserviceaccount.com",
-    "client_id": "100094282383515455275",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1gl97%40poultryapp-32149.iam.gserviceaccount.com"
+   firebase key here
   }
   
